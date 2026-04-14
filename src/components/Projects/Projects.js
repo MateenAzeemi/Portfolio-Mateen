@@ -3,8 +3,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
-// Temporarily using one placeholder image for all
-import editor from "../../Assets/Projects/codeEditor.png";
 import lekture from "../../Assets/Projects/lek.png";
 import speedy from "../../Assets/Projects/speedy.png";
 import healthy from "../../Assets/Projects/healthy.png";

@@ -19,17 +19,23 @@ function Home2() {
               About <span className="purple">Me</span>
             </h1>
             <p className="home-about-body">
-              I am a mid-level <b className="purple">React Native Developer</b> 
-              with strong <b className="purple">full-stack experience</b>.  
-              I specialize in building scalable mobile applications, backend 
-              services, and e-commerce solutions with a focus on clean 
-              architecture, performance optimization, and user experience.
+              I am a mid-level <b className="purple">React Native Developer</b>{" "}
+              (1.5+ years) with strong <b className="purple">full-stack</b>{" "}
+              experience. I build scalable cross-platform apps with{" "}
+              <b className="purple">TypeScript</b>, integrate APIs and payments,
+              and ship real-time features with <b className="purple">Firebase</b>{" "}
+              and <b className="purple">WebSockets</b>. Currently in{" "}
+              <b className="purple">Ilmenau, Germany</b>, open to mobile or
+              full-stack roles.
               <br />
               <br />
-              My technical expertise includes{" "}
-              <b className="purple">React Native, Node.js, Next.js, Laravel,</b> 
-              and <b className="purple">Shopify app development</b>, including 
-              checkout extensibility, subscriptions, and cart transformation.
+              Stack highlights:{" "}
+              <b className="purple">
+                React Native (CLI & Expo), Redux Toolkit, Node.js, Express,
+                NestJS, Next.js, Laravel, Shopify
+              </b>
+              , plus <b className="purple">CI/CD</b> (GitHub Actions) and{" "}
+              <b className="purple">Docker</b>.
               <br />
               <br />
               Selected key projects:

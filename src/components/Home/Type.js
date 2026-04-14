@@ -7,11 +7,11 @@ function Type() {
       options={{
         strings: [
           "React Native Developer",
+          "TypeScript Developer",
           "Full-Stack Developer",
-          "Node.js Developer",
+          "Node.js & NestJS Developer",
           "Laravel Developer",
           "Shopify App Builder",
-          "AI-Powered App Integrator",
         ],
         autoStart: true,
         loop: true,

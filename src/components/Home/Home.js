@@ -30,12 +30,13 @@ function Home() {
               </div>
 
               <p style={{ color: "white", marginTop: "10px" }}>
-                Mid-level <strong>React Native Developer</strong> with full-stack
-                expertise in <strong>Node.js, Next.js, Laravel</strong> and{" "}
-                <strong>Shopify Apps</strong>. Experienced in building
-                production-level mobile apps, e-commerce solutions, and
-                AI-powered assistants with a focus on clean architecture and
-                performance optimization.
+                Mid-level <strong>React Native Developer</strong> (1.5+ years)
+                based in <strong>Ilmenau, Germany</strong>. Strong in{" "}
+                <strong>JavaScript, TypeScript</strong>, and full-stack delivery
+                with <strong>Node.js, NestJS, Laravel</strong>, and{" "}
+                <strong>Shopify</strong> apps — production mobile apps, APIs,
+                payments, and real-time features. Open to mobile or full-stack
+                roles; eligible to work in Germany (student/residence permit).
               </p>
             </Col>
 

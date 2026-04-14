@@ -55,7 +55,7 @@ function Projects() {
               imgPath={healthy}
               isBlog={false}
               title="HealthyChoice"
-              description="A food ordering and meal subscription app (Calo clone for Bahrain). Built with React Native and NestJS backend. Includes AI-powered meal recommendations, calorie tracking, and Stripe integration."
+              description="End-to-end food ordering for Bahrain (Calo-inspired): personalized meal plans, calorie tracking, subscription ordering, delivery tracking, and an AI assistant for meal recommendations. Stack: React Native, Node.js, Next.js, Firebase, Stripe."
               ghLink="https://github.com/MateenAzeemi/EatNSeat"
               // demoLink="https://healthychoice.app"
             />
@@ -67,7 +67,7 @@ function Projects() {
               imgPath={shopify}
               isBlog={false}
               title="Shopify Extensions"
-              description="Developed custom Shopify apps and extensions including extended shipping, product subscriptions, and cart transformation logic. Used Remix + Shopify CLI for checkout extensibility."
+              description="Custom Shopify apps for extended shipping, subscriptions, and cart transformation; checkout extensibility with advanced cart logic and renewals. Extensions with UI modals and product enhancements. Backend: Node.js and Next.js with Shopify Admin API and Storefront API."
               ghLink="https://github.com/MateenAzeemi/product-plus"
               // demoLink="https://apps.shopify.com/"
             />
@@ -79,7 +79,7 @@ function Projects() {
               imgPath={lekture}
               isBlog={false}
               title="Lekture"
-              description="An AI-powered reading assistant for students. Combines OCR (Vision Camera + OpenCV), speech recognition, and GPT-based explanations to help users read and understand books in real time."
+              description="AI reading assistant (in development): OCR, GPT integration, and real-time speech feedback. Stack: React Native, Express.js, Firebase, ML Kit."
               ghLink="https://github.com/MateenAzeemi/ai-reading-assistant"
             />
           </Col>
@@ -90,7 +90,7 @@ function Projects() {
               imgPath={speaksure}
               isBlog={false}
               title="SpeakSure"
-              description="Voice-activated scheduling and accounting assistant. Integrates Google Calendar and QuickBooks APIs with React Native (front-end) and NestJS backend. Uses voice commands to create events and manage invoices."
+              description="Final-year project: React Native app with AI chat (Dialogflow), gamification, and progress tracking. Backend: PHP and MySQL."
               ghLink="https://github.com/hamza1270/SpeakSureRepos"
             />
           </Col>
@@ -101,7 +101,7 @@ function Projects() {
               imgPath={matchmate}
               isBlog={false}
               title="MatchMate"
-              description="A cricket scoring and analysis app built with React Native and PHP backend. Includes real-time score updates, bowling action analysis, and match history with performance insights."
+              description="Real-time cricket scoring with AI-powered bowling action analysis. Stack: React Native, PHP, and a local database."
               ghLink="https://github.com/hamzashoukat755/Match-Mate"
             />
           </Col>
